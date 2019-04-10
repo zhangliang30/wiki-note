@@ -57,6 +57,8 @@
 
 &emsp;&emsp;BASE理论是在CAP定理下在**一致性**和**可用性**之间进行博弈的结果。不要求**强一致性**，而是根据自身的业务特点，采用适当的方式来使系统达到最终一致性
 
+TEST
+
 ## 参考
 * 《分布式服务架构：原理、设计与实战》一书作者李艳鹏、杨彪，电子工业出版社2017年8月出版》
 * [CAP迷思：关于分区容忍性](http://zzyongx.github.io/blogs/cap-confusion-problems-with-partition-tolerance.html)
